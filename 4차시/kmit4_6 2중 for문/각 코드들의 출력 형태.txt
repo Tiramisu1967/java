@@ -1,0 +1,39 @@
+kmit4_6_1
+
+*****
+****
+***
+**
+*
+
+kmit4_6_2
+*****
+*
+*****
+*
+*****
+
+kmit4_6_3
+*****
+    *
+   *
+  *
+*****
+
+kmit4_6_4
+
+     *
+    ***
+   *****
+  *******
+ *********
+
+kmit4_6_5
+
+ABCDEFG
+HIJKLMN
+OPkmit4_6_RSTU
+VWXYZAB
+CDEFGHI
+JKLMNOP
+kmit4_6_RSTUVW
